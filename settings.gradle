@@ -1,0 +1,5 @@
+rootProject.name = 'grable'
+
+include 'db'
+include 'service'
+include 'api'
